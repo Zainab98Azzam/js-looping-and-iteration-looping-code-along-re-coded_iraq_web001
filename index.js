@@ -10,11 +10,12 @@ function writeCards ( y){
 }
 
 function countDown(w){
-let i=0;
+let i=w;
 let v=[];
-while(i<=w){
+while(i>0){
   v.push(i);
-  i++;
+  i--;
 }
 return v;
+consle.log
 }
