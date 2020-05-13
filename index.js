@@ -9,7 +9,7 @@ function writeCards ( y){
   return z
 }
 
-function countdown(w){
+function countDown(w){
 let i=0;
 let v[];
 while(i<=w){
