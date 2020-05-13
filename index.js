@@ -1,5 +1,5 @@
 const x =['surprise'];
-const y =['2'];
+
 
 function writeCards ( y){
   let z =[];
