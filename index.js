@@ -13,9 +13,9 @@ function countDown(w){
 let i=w;
 let v=[];
 while(i>0){
-  consle.log(i);
+  console.log(i);
   i--;
 }
-return v;
-consle.log
+
+
 }
