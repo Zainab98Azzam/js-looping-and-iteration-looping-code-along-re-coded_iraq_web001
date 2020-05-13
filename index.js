@@ -12,7 +12,7 @@ function writeCards ( y){
 function countDown(w){
 let i=w;
 let v=[];
-while(i>0){
+while(i>=0){
   console.log(i);
   i--;
 }
