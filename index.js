@@ -13,7 +13,7 @@ function countDown(w){
 let i=w;
 let v=[];
 while(i>0){
-  v.push(i);
+  consle.log(i);
   i--;
 }
 return v;
