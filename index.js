@@ -14,6 +14,4 @@ while(w>=0){
   console.log(w);
   w--;
 }
-
-
 }
