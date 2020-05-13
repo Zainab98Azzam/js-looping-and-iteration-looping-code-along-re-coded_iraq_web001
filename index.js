@@ -11,7 +11,7 @@ function writeCards ( y){
 
 function countDown(w){
 let i=0;
-let v[];
+let v=[];
 while(i<=w){
   v.push(i);
   i++;
